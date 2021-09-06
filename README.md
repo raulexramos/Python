@@ -1,2 +1,2 @@
 # python
-script
+Pasta destinada a códigos em python
