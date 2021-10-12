@@ -6,7 +6,7 @@ print('='*20)
 print('Bem vindo ao Jogo da Forca! Vamos começar!')
 
 nome = input("Digite o seu nome: ")
-palavra = ('raulex', 'tyson', 'livia', 'rhuan', 'anelize')
+palavra = ('tyson', 'livia', 'rhuan', 'anelize')
 palavra_forca = random.choice(palavra)
 
 digitadas = []
